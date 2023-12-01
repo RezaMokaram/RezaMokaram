@@ -31,17 +31,8 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=js" alt="js" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
-    </a>
-    <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=androidstudio" alt="AndroidStudio" width="40" height="40"/>
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+        <img src="./resources/nodejs.svg" alt="nodejs" width="40" height="40"/>
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>  
@@ -63,6 +54,18 @@
     </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
+    </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=js" alt="js" width="40" height="40"/>
+    </a>
+    <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=androidstudio" alt="AndroidStudio" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
     </a>
 </p>
 
