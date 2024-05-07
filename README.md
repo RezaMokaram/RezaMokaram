@@ -25,6 +25,9 @@
     <a href="https://go.dev/" target="_blank" rel="noreferrer">  
         <img src="https://skillicons.dev/icons?i=go" alt="cpp" width="40" height="40"/> 
     </a>
+    <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitmq" width="40" height="40"/> 
+    </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
         <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> 
     </a>
